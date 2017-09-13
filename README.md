@@ -2,5 +2,5 @@
 ## کاور مجله
 ![Cover](https://github.com/kntu-ce-mag/issue-01/raw/master/front-cover.png)
 ## دانلود
-[Issue 19 - Download](https://github.com/kntu-ce-mag/issue-01/raw/master/CE_KNTU_ISSUE_01.pdf)
+[Issue 1 - Download](https://github.com/kntu-ce-mag/issue-01/raw/master/CE_KNTU_ISSUE_01.pdf)
 
